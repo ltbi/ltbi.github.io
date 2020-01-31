@@ -5,18 +5,18 @@
 
  @font-face {
   font-family: DSTypeJulesColossalBook;
-  src: url(https://raw.githubusercontent.com/MshUp/mshup.github.io/master/DSTypeJulesColossalBook.woff2) format('woff2'), url(https://raw.githubusercontent.com/MshUp/mshup.github.io/master/DSTypeJulesColossalBook.woff) format('woff');
+  src: url(https://raw.githubusercontent.com/ltbi/ltbi.github.io/master/DSTypeJulesColossalBook.woff2) format('woff2'), url(https://raw.githubusercontent.com/ltbi/ltbi.github.io/master/DSTypeJulesColossalBook.woff) format('woff');
   font-weight: 400;
   font-style: normal;
 }
 
 @font-face {
     font-family: "DSTypeJulesColossalBook";
-    src: url("https://raw.githubusercontent.com/MshUp/mshup.github.io/master/DSTypeJulesColossalBook.eot"); /* IE9 */
-    src: url("https://raw.githubusercontent.com/MshUp/mshup.github.io/master/DSTypeJulesColossalBook.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
-    url("https://raw.githubusercontent.com/MshUp/mshup.github.io/master/DSTypeJulesColossalBook.woff") format("woff"), /* chrome、firefox */
-    url("https://raw.githubusercontent.com/MshUp/mshup.github.io/master/DSTypeJulesColossalBook.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+ */
-    url("https://raw.githubusercontent.com/MshUp/mshup.github.io/master/DSTypeJulesColossalBook.svg#uxfonteditor") format("svg"); /* iOS 4.1- */
+    src: url("https://raw.githubusercontent.com/ltbi/ltbi.github.io/master/DSTypeJulesColossalBook.eot"); /* IE9 */
+    src: url("https://raw.githubusercontent.com/ltbi/ltbi.github.io/master/DSTypeJulesColossalBook.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("https://raw.githubusercontent.com/ltbi/ltbi.github.io/master/DSTypeJulesColossalBook.woff") format("woff"), /* chrome、firefox */
+    url("https://raw.githubusercontent.com/ltbi/ltbi.github.io/master/DSTypeJulesColossalBook.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+ */
+    url("https://raw.githubusercontent.com/ltbi/ltbi.github.io/master/DSTypeJulesColossalBook.svg#uxfonteditor") format("svg"); /* iOS 4.1- */
 }
 
 
@@ -25,6 +25,11 @@ h1 {
 
   font-family: "DSTypeJulesColossalBook" !important;
 }
+
+
+New Updated : Fr. 06:07 | 31. of January 2019 
+
+web : https://liketoblogit.com 
 
 DEMO Script my LikeToBlogIt Team ©.2019 copyright 
 Do 00:36:33 by L.G
